@@ -1,0 +1,18 @@
+{
+  "name": "robin-baby",
+  "displayName": "Robin Baby",
+  "version": "1.0.0",
+  "description": "Ask about and log your baby's feeds, sleep, diapers, pumping and growth from your Robin Baby baby tracker: recent activity, counts and totals, trends between periods, night wakings, nap forecasts, and logging or correcting events.",
+  "author": {
+    "name": "Robin Baby",
+    "email": "hello@robinbaby.com",
+    "url": "https://www.robinbaby.com"
+  },
+  "homepage": "https://www.robinbaby.com/connectors/",
+  "repository": "https://github.com/asyncmastercoder/robin-baby-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["robin baby", "baby tracker", "feeding", "sleep", "diapers", "newborn", "parenting"],
+  "category": "integrations",
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}

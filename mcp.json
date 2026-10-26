@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "robin-baby": {
+      "type": "http",
+      "url": "https://api.robinbaby.com/mcp",
+      "auth": {
+        "CLIENT_ID": "4b073d7e-b224-411d-a963-76d591ade463",
+        "scopes": ["openid", "profile"]
+      }
+    }
+  }
+}
