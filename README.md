@@ -1,6 +1,6 @@
 # Robin Baby for Cursor and Grok Bot
 
-Robin Baby is a baby tracker for feeds, sleep, diapers, pumping, growth and more. This plugin connects your Robin Baby account to Cursor and Grok Bot, so you can ask questions about your baby's day and log new events in plain language, for example "How did she sleep last night?" or "Log a 120 ml bottle at 3pm".
+Robin Baby is a baby tracker for feeds, sleep, diapers, pumping and more. This plugin connects your Robin Baby account to Cursor and Grok Bot, so you can ask questions about your baby's day and log new events in plain language, for example "How did she sleep last night?" or "Log a 120 ml bottle at 3pm".
 
 ## What you need
 
@@ -32,7 +32,7 @@ Full tool reference, errors and rate limits: https://www.robinbaby.com/connector
 
 ## Data and privacy
 
-The tools return your baby's logged events (times, amounts, durations, notes) and profile (name, birth date) for the child you connected. Robin Baby does not sell your data. See the Privacy Policy for what we collect, how long we keep it and how to delete it.
+The tools return, for the one child you connected: their age in months, time zone and feeding profile, a 30-day feeding summary, and the logged events you ask about (times, amounts, durations, your notes and food descriptions). The connector never receives your child's name, date of birth, sex or gestational age, and cannot read growth, allergen, medication, symptom, temperature or vaccination records. Robin Baby does not sell your data. See the Privacy Policy for what we collect, how long we keep it and how to delete it.
 
 - Privacy Policy: https://www.robinbaby.com/privacy/
 - Terms: https://www.robinbaby.com/terms/
